@@ -2,9 +2,7 @@
 
 <p align="center">
 O MyLinks é um agregador de links para usar como cartão de visitas online.
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito"><br/>
-Estude esse projeto em formato de vídeo clicando aqui.</a>
-</p>
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
