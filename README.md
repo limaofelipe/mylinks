@@ -1,8 +1,9 @@
 <h1 align="center"> MyLinks </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+O MyLinks é um agregador de links para usar como cartão de visitas online.
+<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito"><br/>
+Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
 <p align="center">
@@ -31,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O MyLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://limaofelipe.github.io/mylinks/)
 
 ## 🔖 Layout
 
@@ -43,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Felipe Lima :wave:
